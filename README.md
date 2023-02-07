@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+![screencapture-shopnetapp-herokuapp-2023-02-07-18_02_20](https://user-images.githubusercontent.com/57687331/217326952-e14979e7-1efb-47df-88ef-c46e19b34fef.png)
+
 ## Features
 
 - Full featured shopping cart
